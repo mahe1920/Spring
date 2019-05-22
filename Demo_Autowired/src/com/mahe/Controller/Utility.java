@@ -3,9 +3,9 @@ package com.mahe.Controller;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
-import com.infy.configuration.SpringConfig;
 import com.mahe.Service.CustomerLoginService;
 import com.mahe.Service.CustomerLoginServiceImpl;
+import com.mahe.configuration.SpringConfig;
 import com.mahe.model.CustomerLogin;
 
 public class Utility {
